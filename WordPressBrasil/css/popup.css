@@ -1,0 +1,64 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+.clear {
+	clear: both
+}
+legend {
+	color: #fff;
+	margin-bottom: 3px;
+	float: right
+}
+input {
+	padding: 5px;
+	width: 315px;
+	border: 0;
+	margin: 3px;
+	outline: none;
+	float: left
+}
+#buscar-item {
+	font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
+	font-size: 11px;
+	border: 1px solid #bdc7d8;
+	-webkit-appearance: none;
+	-webkit-border-radius: 0;
+	zoom: 1;
+}
+input:focus {
+	outline: none;
+}
+button {
+	display: block;
+	background-image: url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yK/r/YyHsj6eDdjl.png);
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: -603px -35px;
+	background-color: #fff;
+	border: 0;
+	cursor: pointer;
+	display: block;
+	height: 19px;
+	padding: 0;
+	position: absolute;
+	text-indent: -9999px;
+	right: 10px;
+	top: 34px;
+	width: 22px;
+}
+button {
+	margin: 0;
+}
+section {
+	background: #3b5998 url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yw/r/dx7GXomUrjl.png);
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: 0 -151px;
+	border-bottom: 1px solid #133783;
+	min-width: 321px;
+	position: relative;
+	padding: 5px;
+	float: left;
+	z-index: 300;
+}
